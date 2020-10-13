@@ -16,6 +16,7 @@ The purpose of this repository is to provide a literature survey of self-supervi
 ### 2. Reconstrunction based self-supervision
 
 * [WWW 2020] **Graph Representation Learning via Graphical Mutual Information Maximization** [[paper]](https://arxiv.org/pdf/2002.01169.pdf) [[code]](https://github.com/zpeng27/GMI)
+* [ARXIV 2019] **Graph Attention Auto-Encoders** [[paper]](https://arxiv.org/abs/1905.10715) [[code]](https://github.com/amin-salehi/GATE)
 * [ICCV 2019] **Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning** [[paper]](https://arxiv.org/abs/1908.02441) [[code]](https://github.com/sseung0703/GALA_TF2.0)
 * [IEEE on Cybernetics 2019] **Learning Graph Embedding with Adversarial Training Methods** [[paper]](https://arxiv.org/abs/1901.01250) 
 * [IJCAI 2018] **Adversarially Regularized Graph Autoencoder for Graph Embedding** [[paper]](https://www.ijcai.org/Proceedings/2018/0362.pdf) [[code]](https://github.com/Ruiqi-Hu/ARGA)
@@ -25,10 +26,17 @@ The purpose of this repository is to provide a literature survey of self-supervi
 * [IEEE on Cybernetics 2019] **Learning Graph Embedding with Adversarial Training Methods** [[paper]](https://arxiv.org/abs/1901.01250) 
 * [IJCAI 2018] **Adversarially Regularized Graph Autoencoder for Graph Embedding** [[paper]](https://www.ijcai.org/Proceedings/2018/0362.pdf) [[code]](https://github.com/Ruiqi-Hu/ARGA)
 
-### 4. Optimal Transport
-* [ICDM 2020] **Toward Unsupervised Graph Neural Network: Interactive Clustering and Embedding via Optimal Transport** [[paper]](https://yangliang.github.io/pdf/icdm20.pdf)
+### 4. Other
+
+* Optimal Transport
+  * [ICDM 2020] **Toward Unsupervised Graph Neural Network: Interactive Clustering and Embedding via Optimal Transport** [[paper]](https://yangliang.github.io/pdf/icdm20.pdf)
+* Hop Count
+  * [ARXIV 2020] **Self-Supervised Graph Representation Learning via Global Context Prediction** [[paper]](https://arxiv.org/pdf/2003.01604.pdf)
 
 
 
 
 ## Graph related tasks
+
+### 1. Contrastive based self-supervision
+* [ICLR 2020] **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization** [[paper]](https://arxiv.org/abs/1908.01000) [[code]](https://github.com/fanyun-sun/InfoGraph)
