@@ -1,4 +1,4 @@
-# awesome-unuspervised-gnns
+# awesome-unsupervised-gnns
 List of unsupervised (self-supervised) graph neural network (GNN) methods. 
 The purpose of this repository is to provide a literature survey of self-supervision signals (loss functions) that can be used to train GNNs.
 
