@@ -39,4 +39,5 @@ The purpose of this repository is to provide a literature survey of self-supervi
 ## Graph related tasks
 
 ### 1. Contrastive based self-supervision
+* [ICML 2020] **Contrastive Multi-View Representation Learning on Graphs** [[paper]](https://arxiv.org/pdf/2006.05582.pdf) [[code]](https://github.com/kavehhassani/mvgrl)
 * [ICLR 2020] **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization** [[paper]](https://arxiv.org/abs/1908.01000) [[code]](https://github.com/fanyun-sun/InfoGraph)
