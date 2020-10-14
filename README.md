@@ -28,9 +28,10 @@ The purpose of this repository is to provide a literature survey of self-supervi
 
 ### 4. Other
 
-* Optimal Transport
+* Interactive Clustering
+  * [ARXIV 2020] **Graph InfoClust: Leveraging cluster-level node information for unsupervised graph representation learning** [[paper]](https://arxiv.org/abs/2009.06946) 
   * [ICDM 2020] **Toward Unsupervised Graph Neural Network: Interactive Clustering and Embedding via Optimal Transport** [[paper]](https://yangliang.github.io/pdf/icdm20.pdf)
-* Hop Count
+* Hop Count Prediction
   * [ARXIV 2020] **Self-Supervised Graph Representation Learning via Global Context Prediction** [[paper]](https://arxiv.org/pdf/2003.01604.pdf)
 
 
