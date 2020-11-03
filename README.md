@@ -23,6 +23,7 @@ The purpose of this repository is to provide a literature survey of self-supervi
 * [NIPS Workshop 2016] **Variational Graph Auto-Encoders** [[paper]](https://arxiv.org/abs/1611.07308) [[code]](https://github.com/tkipf/gae)
 
 ### 3. Adversarial self-supervision
+* [IJCAI 2020] **Adversarial Mutual Information Learning for Network Embedding** [[paper]](https://www.ijcai.org/Proceedings/2020/0459.pdf)
 * [IEEE on Cybernetics 2019] **Learning Graph Embedding with Adversarial Training Methods** [[paper]](https://arxiv.org/abs/1901.01250) 
 * [IJCAI 2018] **Adversarially Regularized Graph Autoencoder for Graph Embedding** [[paper]](https://www.ijcai.org/Proceedings/2018/0362.pdf) [[code]](https://github.com/Ruiqi-Hu/ARGA)
 
